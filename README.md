@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning more about front-end development and automatization.
 - 👯 I’m always looking to collaborate on different proyects, so:
 - 📫 Let's chat:
-      Gmail:[zoerouco@gmail.com](mailto:zoerouco@gmail.com)
-      LinkedIn: [Profile](www.linkedin.com/in/zoe-rouco-42237b292)
+      - Gmail: [zoerouco@gmail.com](mailto:zoerouco@gmail.com)
+      - LinkedIn: [Profile](www.linkedin.com/in/zoe-rouco-42237b292)
     
 
 ```Java
