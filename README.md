@@ -12,6 +12,6 @@
       languages = [Java, C#, C/C++, HTML5, CSS3, Python];
       frameworks and technologies = [ASP.NET, JSP, Bootstrap, Sass];
       databases = SQL; //Microsoft SQL Server, MySQL
-      IT Tools = [Git/GitBash, SourceTree, Visual Studio Basic, Visual Studio Code, Code::Blocks, Eclipse, Basic knowledge of Microsoft Office];
+      IT Tools = [Git/GitBash, SourceTree, Visual Studio Basic, Visual Studio Code, Code::Blocks, Eclipse, Microsoft Office];
  }
 ```
